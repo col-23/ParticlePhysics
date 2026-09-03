@@ -81,6 +81,7 @@ With the default field pointing along z and a velocity that has both transverse 
 ## Output
 
 A 3D matplotlib window showing the full trajectory, labelled in metres.
+<img width="653" height="658" alt="newpositron" src="https://github.com/user-attachments/assets/cae7a383-8c16-4ec7-b973-538ac2e18f8a" />
 
 ## Requirements
 
